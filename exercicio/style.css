@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-image: url("https://prium.github.io/slick/assets/images/header_showcase.jpg");
+    text-align: center;
+}
+
+
+
+
+#titulo {
+    font-size: 70px;
+    text-align: center;
+    color: #f8f9fa;
+    font-family: sans-serif;
+    
+    margin-top: 80px;
+}
+
+#texto {
+    text-align: center;
+    font-size: 35px;
+    color: #9fa2a5;
+    margin-top: 50px;
+    font-family: sans-serif;
+    line-height: 1.15;
+}
+ 
+button{
+    margin: 5px;
+    color: white;
+    background-color: transparent;
+    border-color: #f8f9fa;
+    display: inline-block;
+    padding: 11px 21px;
+    vertical-align: middle;
+    font-size: 15px;
+    border: 1px solid white;
+    border-radius: 6px;
+    margin-top: 90px;
+
+}
+.i {
+    margin-top: -60px;
+
+}
+
+img
+{
+    margin-top: 70px;
+    height: 250px;
+
+}
